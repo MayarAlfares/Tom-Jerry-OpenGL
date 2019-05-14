@@ -1,0 +1,99 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0
+map_Kd fontile.png
+
+
+newmtl Material.00006f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0
+map_Kd ceratile.png
+
+
+newmtl Material.0000b8
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.58
+Ns 0
+map_Kd water.png
+
+
+newmtl Material.0000c1
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd dftile.png
+
+
+newmtl Material.0000ca
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.23
+map_Kd ripple.png
+
+
+newmtl Material.0000fb
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd coastal.png
+
+
+newmtl Material.000140
+Ka 0.588 0.588 0.588
+Kd 0.588 0.588 0.588
+Ks 0.9 0.9 0.9
+d 1
+Ns 10
+map_Kd seal.png
+
+
+newmtl Material.0004c4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.23
+map_Kd fall.png
+
+
+newmtl Material.0004dc
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.23
+map_Kd fall.png
+
+
+newmtl Material.0004f4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.23
+map_Kd fall.png
+
+
+newmtl Material.000506
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.23
+map_Kd fall.png
+
